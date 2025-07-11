@@ -1,34 +1,30 @@
 [
   {
     "id": "1",
-    "name": "|FR| TNT HD"
+    "name": "TNT HD"
   },
   {
     "id": "2",
-    "name": "|FR| TNT HEVC"
+    "name": "TNT SD"
   },
   {
     "id": "3",
-    "name": "|FR| TNT SD"
+    "name": "RMC CHANNEL"
   },
   {
     "id": "4",
-    "name": "|FR| RMC CHANNEL"
+    "name": "DOCUMENTAIRE"
   },
   {
     "id": "5",
-    "name": "|FR| DOCUMENTAIRE"
+    "name": "INFORMATIONS"
   },
   {
     "id": "6",
-    "name": "|FR| INFORMATIONS"
+    "name": "FRANCE ULTRA ᵁᴴᴰ"
   },
   {
     "id": "7",
-    "name": "|FR| FRANCE ULTRA ᵁᴴᴰ"
-  },
-  {
-    "id": "8",
-    "name": "|FR| BEIN SPORT"
+    "name": "BEIN SPORT"
   }
 ]
